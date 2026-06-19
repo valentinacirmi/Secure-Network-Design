@@ -28,7 +28,7 @@ The infrastructure presented several limitations, including a single point of fa
 
 ## Proposed Improvements
 
-![network_segmentation2](screenshots/network_segmentation2.png)
+![network_segmentation2](network_segmentation2.png)
 
 
 ### Network Segmentation
