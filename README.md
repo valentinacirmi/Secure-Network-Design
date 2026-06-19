@@ -8,6 +8,9 @@ Analyze an existing network infrastructure, identify weaknesses and propose impr
 
 The original network consisted of:
 
+![network_segmentation1](screenshots/network_segmentation1.png)
+
+
 * A central switch
 * Windows and Linux servers
 * Multiple client devices
@@ -24,6 +27,9 @@ The infrastructure presented several limitations, including a single point of fa
 * Insufficient contingency planning
 
 ## Proposed Improvements
+
+![network_segmentation2](screenshots/network_segmentation2.png)
+
 
 ### Network Segmentation
 
