@@ -8,7 +8,7 @@ Analyze an existing network infrastructure, identify weaknesses and propose impr
 
 The original network consisted of:
 
-![network_segmentation1](screenshots/network_segmentation1.png)
+![network_segmentation1](network_segmentation1.png)
 
 
 * A central switch
